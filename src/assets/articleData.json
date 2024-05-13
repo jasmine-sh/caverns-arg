@@ -1,0 +1,7 @@
+{
+  "articles" :
+          [
+            { "id":  1, "title" : "coochie cavesite", "slug": "coochie-cavesite", "text" : "Caves can be classified in various other ways as well, including a contrast between active and relict: active caves have water flowing through them; relict caves do not, though water may be retained in them. Types of active caves include inflow caves ('into which a stream sinks'), outflow caves , and through caves."},
+            { "id":  2, "title" :  "twist's tavern", "slug":  "twists-tavern", "text" : "Lava tubes are formed through volcanic activity and are the most common primary caves. As lava flows downhill, its surface cools and solidifies. Hot liquid lava continues to flow under that crust, and if most of it flows out, a hollow tube remains. "}
+          ]
+}
