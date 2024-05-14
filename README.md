@@ -1,4 +1,6 @@
 # Caves ARG
+## Purpose
+Basic webapp designed to deliver the user an immersive mystery story.
 ### Jasmine Stapleton-Hart
 
 

@@ -1,7 +1,3 @@
-// import React from "react";
-import PropTypes from 'prop-types';
-// import "./Layout.css";
-
 // Importing all created components
 import Header from "./header.jsx";
 import Navbar from "./navbar.jsx";
@@ -12,10 +8,13 @@ import {Outlet} from "react-router-dom";
 // Pass the child props
 const Layout = () => {
     return (
-        <div>
+        <div className="verticalLayout">
             <Header />
-            <Navbar />
+            <div className="horizontalLayout">
+                <Navbar />
                 <Outlet />
+            </div>
+
             <Footer />
         </div>
     );
